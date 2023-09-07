@@ -1,0 +1,30 @@
+body{
+    background-color:aquamarine
+  }
+  h1{
+    color:red;
+    font-family: sans-serif;
+  }
+  h2{
+    color:rgb(15,250,15);
+    font-weight: 100;
+  }
+  p{
+    font-style: normal;
+  
+  }
+  li{
+    font-family:cursive;
+    color:rgb(185, 222, 21);
+    background-color:orangered
+  
+  }
+  img {
+    height: 300px;
+    width: 450px;
+    border-style:inset;
+    border-width: 6px;
+    border-color: yellow;
+    border-radius: 15px;
+  }
+  
